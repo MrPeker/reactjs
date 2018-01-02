@@ -6,7 +6,7 @@ Herhangi bir şey yüklemenize gerek yoktur (<i>React JS, React DOM ve Babel JS 
 
 Yerel bir geliştirme ortamı kullanmayı tercih ediyorsanız <a href="#">yükleme sayfası</a>na bakın (<i>Kurulum aşaması anlatıldığında bu kısma link eklenecektir</i>).
 
-En küçük Reakt örneği şuna benzer:
+En küçük React örneği şuna benzer:
 
 ```js
 ReactDOM.render(
@@ -15,7 +15,7 @@ ReactDOM.render(
 );
 ```
 
-<i>Bu kod, HTML'de <b>root</b> id'li etiket içerisine <b>h1</b> başlığı ile Merhaba Dünya yazacaktır.</i>
+<i>Bu kod, HTML'de <b>root</b> id'li element içerisine <b>h1</b> başlığı ile Merhaba Dünya yazacaktır.</i>
 
 Bundan sonraki bölümlerde, React aşamalı olarak anlatılacaktır. React uygulamalarının yapı taşları olan element ve componentleri inceleyeceğiz.
 
